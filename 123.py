@@ -4,6 +4,8 @@
 int1 = int (input ('Type an integer 1: '))
 int2 = int (input ('Type an integer 2: '))
 
+l = (lambda x, y: True sum(x,y) == 5 or  (x-y) == 5 else False) (int1, int2)
+
 ##sum = int1 + int2
 ##dif = int1 - int2
 ##
