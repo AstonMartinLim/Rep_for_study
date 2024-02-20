@@ -1,5 +1,5 @@
 def print_something():
-    b = 1+1
+    b = 4+5
     return print("Hello!", b)
 
 print_something()
